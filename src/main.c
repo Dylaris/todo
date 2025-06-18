@@ -1,5 +1,5 @@
 #include "todo.h"
-#include "../zst.h"
+#include "zst.h"
 
 static todos_t todos = {0}; 
 
